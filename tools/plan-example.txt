@@ -1,0 +1,7 @@
+# office name (exactly as in the Offices tab), minutes
+Mumbai WC, 90
+travel, 20
+BKC Tower, 120
+travel, 25
+Andheri Hub, 60
+out, 20
